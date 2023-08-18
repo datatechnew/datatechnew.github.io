@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://datatechnew.github.io</id>
+    <title>-JOY-</title>
+    <updated>2023-08-18T18:43:17.900Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://datatechnew.github.io"/>
+    <link rel="self" href="https://datatechnew.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://datatechnew.github.io/images/avatar.png</logo>
+    <icon>https://datatechnew.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, -JOY-</rights>
+    <entry>
+        <title type="html"><![CDATA[                              My Frist Blog]]></title>
+        <id>https://datatechnew.github.io/post/my-frist-blog/</id>
+        <link href="https://datatechnew.github.io/post/my-frist-blog/">
+        </link>
+        <updated>2023-08-15T16:04:11.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="this-is-my-new-blog-in-2023-good-luck">This is my new blog in 2023. Good Luck!</h2>
+<figure data-type="image" tabindex="1"><img src="https://datatechnew.github.io/post-images/1692246543817.webp" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
